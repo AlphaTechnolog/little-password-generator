@@ -1,0 +1,10 @@
+[package]
+name = "password-generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clearscreen = "2.0.0"
+figlet-rs = "0.1.5"
+home = "0.5.4"
+magic-crypt = "3.1.12"
